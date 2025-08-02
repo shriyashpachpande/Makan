@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}body{
+    background-color: #EFFDF5;
+}
+
+.property-types-heading{
+    width: 86%;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 7%;
+    text-align: center;
+}
+.property-para1{
+    font-size: 42px;
+    margin: 0 0 16px;
+    color: #0E2E50;
+    font-weight: 700;
+    line-height: 1.2;
+    padding-left: 20px;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    position: relative;
+    top: 30px;
+}
+

@@ -1,0 +1,364 @@
+.div4{
+    width: 1290px;
+    height: 40px;
+    background-color: #000066;
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    border-color: #005580;
+    position: relative;
+    bottom: 25px;
+   }
+
+   .div6{
+    height: 150px;
+    width: 1460px;
+    border: 1px solid #555;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    border-style:groove;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   }
+   .div1{
+    background-color: #e6f7ff;
+    width: 1500px;
+    height: 1700px;
+  }
+  .div7{
+    background-color: whitesmoke;
+    height: 1000px;
+    width: 1460px;
+    border: 1px solid #555;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: static;
+  }
+  b{
+    padding-left: 20px;
+  }
+  .table {
+    border-spacing: 20px;
+  }
+
+  select, option {
+    width: 280px;
+    height: 30px;
+    border-color: #E6E6FA;
+    border-radius: 2px;
+    background-color: #E6E6FA;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+    
+  }
+
+  #one1 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one2 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one3 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one4 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one7 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one8 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one9 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one11 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one12 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one13 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one14 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one15 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one16 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one17 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one18 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one19 {
+
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one20 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  #one10 {
+    width: 280px;
+    height: 30px;
+    background-color: #E6E6FA;
+    border-radius: 2px;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(205, 201, 201, 0.2), 0 6px 20px 0 rgba(102, 102, 102, 0.19);
+  }
+  .a1:before{
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    height: 2px;
+    width: 60px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a1:hover:before{
+    transform: scaleX(1);
+  }
+  .a2:before{
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    height: 2px;
+    width: 230px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a2:hover:before{
+    transform: scaleX(1);
+  }
+  .a3:before{
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    height: 2px;
+    width: 55px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a3:hover:before{
+    transform: scaleX(1);
+  }
+  .a4:before{
+    content: "";
+    position: absolute;
+    bottom: -2px;
+    height: 2px;
+    width: 200px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a4:hover:before{
+    transform: scaleX(1);
+  }
+  .a5:before{
+    content: "";
+    position: absolute;
+    bottom: -930px;
+    height: 2px;
+    width: 148px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a5:hover:before{
+    transform: scaleX(1);
+  }.a6:before{
+    content: "";
+    position: absolute;
+    bottom: -930px;
+    height: 2px;
+    width: 88px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a6:hover:before{
+    transform: scaleX(1);
+  }
+  .a7:before{
+    content: "";
+    position: absolute;
+    bottom: -930px;
+    height: 2px;
+    width: 110px;
+    background: #4070f4;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transition: transform 0.2s linear;
+  }
+  .a7:hover:before{
+    transform: scaleX(1);
+  }
+  .div9{
+    background-color: #e6e6e6;
+    
+    border: 1px solid #e6e6e6;
+    margin-left: 250px;
+    margin-right: 250px;
+    border-radius: 20px;
+    padding: 15px 0;
+    text-align:center;
+    border-style: none;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    position: relative;
+    bottom: 80px;
+  }
+  a{
+    text-decoration: none;
+}
+#two{
+    color: #000066;
+    font-size: 18px;
+    padding-left: 50px;
+}
+
+#button{
+  height: 30px;
+  width: 100px;
+  color:#4E3883;
+  background-color: #99DDFF;
+ cursor: pointer;
+  border-color: #99DDFF;
+}
+.shriyash1{
+position: relative;
+display: inline-block;
+color:#2196f3;
+text-transform: uppercase;
+letter-spacing: 2px;
+overflow: hidden;
+transition: 0.2s;
+}
+.shriyash1:hover{
+color: #255784;
+background: #00458B;
+box-shadow: 0 0 10px #00458B, 0 0 40px #00458B, 0 0 80px #00458B;
+}
+.homee{
+  position: relative;
+  left: 250px;
+  bottom: 30px;
+  font-size: 20px;
+  color: blue;
+}
+.page{
+  transition: 0.2s;
+}
+.page:hover{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
